@@ -1,0 +1,20 @@
+.input-group{
+    width: 450px;
+    margin: 0px auto 0px auto;
+}
+#result {
+    text-align: center;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.meal{
+    height: 250px;
+    width: 250px;
+    margin: 2px 0px 0px 45px;
+    text-align: center;
+    padding: 5px;
+    float: left;
+}
